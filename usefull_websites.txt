@@ -1,0 +1,2 @@
+https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
+https://filippo.io/linux-syscall-table/
